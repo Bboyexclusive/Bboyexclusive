@@ -1,7 +1,7 @@
 ### Hi there 👋, Fagbola Olayinka
 #### I am a Software Developer 
 
- I’m a developer, who is passionate about making contributing to world of computing and programming, creating technology to elevate people, and building community. Some technologies I enjoy working with include Java, Xml, Dot, Php and (JavaScript, CSS)
+ I’m a developer, who is passionate about making contribution to world of computing and programming, creating technology to elevate people, and building community. Some languages I enjoy learning and working with include Java, Xml, Dot, Php and (JavaScript, CSS)
 
 
 Skills: 
